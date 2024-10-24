@@ -1,0 +1,22 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.7297651345453E+15,"dur": 1380850, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.72976513458351E+15,"dur": 56073, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.72976513471147E+15,"dur": 361698, "ph":"X", "name": "Prepare For Build"},
+{ "pid": "Unity", "tid": 1,"ts": 1.72976513507375E+15,"dur": 750873, "ph":"X", "name": "ProducePlayerScriptAssemblies"},
+{ "pid": "Unity", "tid": 1,"ts": 1.72976513573434E+15,"dur": 89020, "ph":"X", "name": "Prebuild Cleanup and Recompile"},
+{}
+
+],
+"meta_datetime": "10/24/2024 12:18:55",
+"meta_command_line": "/Applications/Unity/Hub/Editor/2021.3.44f1/Unity.app/Contents/MacOS/Unity -projectpath /Users/rabiialaoui/Downloads/final-project-unity-master -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-rabiialaoui -hubSessionId fe17549e-e56f-42fc-a381-9fb89cf42e7b -accessToken srgtIObea1r8uOqqL0bvLOURuqMi0MA7MfJE9NQYNzA008f",
+"meta_command_line_args": "/Applications/Unity/Hub/Editor/2021.3.44f1/Unity.app/Contents/MacOS/Unity -projectpath /Users/rabiialaoui/Downloads/final-project-unity-master -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-rabiialaoui -hubSessionId fe17549e-e56f-42fc-a381-9fb89cf42e7b -accessToken srgtIObea1r8uOqqL0bvLOURuqMi0MA7MfJE9NQYNzA008f",
+"meta_user_name": "rabiialaoui",
+"meta_os_version": "Unix 23.4.0.0",
+"meta_cpu_count": "8"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titlebarLy" type="id"/>
+    <item name="unitySurfaceView" type="id"/>
+    <string name="FreeformWindowOrientation_landscape"/>
+    <string name="FreeformWindowOrientation_portrait"/>
+    <string name="FreeformWindowSize_maximize"/>
+    <string name="FreeformWindowSize_phone"/>
+    <string name="FreeformWindowSize_tablet"/>
+    <string name="app_name">Final</string>
+    <string name="dialog_button1_zh_CN">原地设置安全边界</string>
+    <string name="dialog_button2_zh_CN">自定义安全边界</string>
+    <string name="dialog_content_gobcak_zh_CN">你已离开游戏安全区，请返回安全区边界内或者重新设置安全边界</string>
+    <string name="dialog_content_lost_zh_CN">请勿遮挡前方摄像头，保持室内光线充足。请您重新设置安全边界</string>
+    <string name="dialog_content_toofar_zh_CN">你已离开游戏安全区过远，请摘下头戴显示器，返回安全区边界内或者重新设置安全边界</string>
+    <string name="dialog_title_zh_CN">安全区警告：</string>
+    <string name="game_view_content_description">Game view</string>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+</resources>

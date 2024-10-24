@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TouchpadMouvement.cs">
+    <Files>
+      <File FileName="Assets/TouchpadMouvement.cs" Line="81" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TouchpadMouvement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="28829ff1-8258-4552-b984-ba736f406030" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

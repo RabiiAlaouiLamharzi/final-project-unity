@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.Final"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="26"
+9-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="35" />
+10-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-54
+19-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:19-51
+20
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-67
+21-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-64
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-81
+22-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-78
+23
+24    <uses-feature
+24-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-15:36
+25        android:name="android.hardware.touchscreen"
+25-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-52
+26        android:required="false" />
+26-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-33
+27    <uses-feature
+27-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:5-18:36
+28        android:name="android.hardware.touchscreen.multitouch"
+28-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-63
+29        android:required="false" />
+29-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-33
+30    <uses-feature
+30-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-21:36
+31        android:name="android.hardware.touchscreen.multitouch.distinct"
+31-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-72
+32        android:required="false" />
+32-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-33
+33
+34    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+34-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:5-73
+34-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:22-70
+35    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+35-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:5-80
+35-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:22-77
+36    <uses-permission android:name="android.permission.REORDER_TASKS" />
+36-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:11:5-72
+36-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:11:22-69
+37    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+37-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:12:5-76
+37-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:12:22-73
+38    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+38-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:14:5-79
+38-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:14:22-76
+39    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+39-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:15:5-76
+39-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:15:22-73
+40    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+41
+42    <application
+42-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+43        android:allowBackup="true"
+43-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:18:9-35
+44        android:extractNativeLibs="true"
+44-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:9-41
+45        android:icon="@mipmap/app_icon"
+45-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+46        android:label="@string/app_name"
+46-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+47        android:requestLegacyExternalStorage="true"
+47-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-52
+48        android:supportsRtl="true" >
+48-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:20:9-35
+49        <activity
+49-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-50:20
+50            android:name="com.unity3d.player.UnityPlayerActivity"
+50-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-66
+51            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+51-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-194
+52            android:exported="true"
+52-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-36
+53            android:hardwareAccelerated="false"
+53-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-48
+54            android:launchMode="singleTask"
+54-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:13-44
+55            android:resizeableActivity="false"
+55-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-47
+56            android:screenOrientation="landscape"
+56-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-50
+57            android:theme="@style/UnityThemeSelector" >
+57-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-54
+58            <intent-filter>
+58-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-42:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-69
+59-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:17-77
+61-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:27-74
+62            </intent-filter>
+63
+64            <meta-data
+64-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:44:13-46:40
+65                android:name="unityplayer.UnityActivity"
+65-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:45:17-57
+66                android:value="true" />
+66-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:46:17-37
+67            <meta-data
+67-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-49:40
+68                android:name="android.notch_support"
+68-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:48:17-53
+69                android:value="true" />
+69-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:49:17-37
+70        </activity>
+71
+72        <meta-data
+72-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:52:9-54:33
+73            android:name="unity.splash-mode"
+73-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:53:13-45
+74            android:value="0" />
+74-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:54:13-30
+75        <meta-data
+75-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:55:9-57:36
+76            android:name="unity.splash-enable"
+76-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:56:13-47
+77            android:value="True" />
+77-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:57:13-33
+78        <meta-data
+78-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:58:9-60:36
+79            android:name="unity.launch-fullscreen"
+79-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:59:13-51
+80            android:value="True" />
+80-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:60:13-33
+81        <meta-data
+81-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:61:9-63:50
+82            android:name="notch.config"
+82-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:62:13-40
+83            android:value="portrait|landscape" />
+83-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:63:13-47
+84        <meta-data
+84-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:64:9-66:36
+85            android:name="unity.auto-report-fully-drawn"
+85-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:65:13-57
+86            android:value="true" />
+86-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:66:13-33
+87        <meta-data
+87-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:67:9-69:34
+88            android:name="pvr.app.type"
+88-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:68:13-40
+89            android:value="vr" />
+89-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:69:13-31
+90        <meta-data
+90-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:70:9-72:51
+91            android:name="pvr.sdk.version"
+91-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:71:13-43
+92            android:value="XR Platform_1.2.5.3" />
+92-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:72:13-48
+93        <meta-data
+93-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:73:9-75:33
+94            android:name="enable_cpt"
+94-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:74:13-38
+95            android:value="0" />
+95-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:75:13-30
+96        <meta-data
+96-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:76:9-78:33
+97            android:name="enable_entitlementcheck"
+97-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:77:13-51
+98            android:value="0" />
+98-->[:unityLibrary] /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:78:13-30
+99
+100        <activity
+100-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:21:9-32:20
+101            android:name="com.pico.loginpaysdk.auth.TransferStationActivity"
+101-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:22:13-77
+102            android:excludeFromRecents="true"
+102-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:23:13-46
+103            android:exported="true"
+103-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:24:13-36
+104            android:launchMode="singleTask"
+104-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:25:13-44
+105            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+105-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:26:13-72
+106            <intent-filter>
+106-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:27:13-31:29
+107                <action android:name="com.pico.loginpaysdk.intent.action.AuthCallback" />
+107-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:28:17-90
+107-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:28:25-87
+108
+109                <category android:name="android.intent.category.DEFAULT" />
+109-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:30:17-76
+109-->[:Pico_PaymentSDK_Android_V1.0.34:] /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/AndroidManifest.xml:30:27-73
+110            </intent-filter>
+111        </activity>
+112    </application>
+113
+114</manifest>

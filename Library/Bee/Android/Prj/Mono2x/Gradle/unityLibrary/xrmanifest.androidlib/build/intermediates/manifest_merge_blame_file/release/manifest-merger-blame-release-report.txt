@@ -1,0 +1,16 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.UnityTechnologies.XR.Manifest" >
+4
+5    <uses-sdk android:minSdkVersion="1" />
+5-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+6
+7    <application>
+7-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:3:3-6:17
+8        <activity android:name="com.unity3d.player.UnityPlayerActivity" >
+8-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:5-5:16
+8-->/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:15-68
+9        </activity>
+10    </application>
+11
+12</manifest>

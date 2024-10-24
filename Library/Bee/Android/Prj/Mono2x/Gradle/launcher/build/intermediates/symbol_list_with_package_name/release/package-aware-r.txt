@@ -1,0 +1,23 @@
+com.DefaultCompany.Final
+id titlebarLy
+id unitySurfaceView
+mipmap app_icon
+mipmap app_icon_round
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+string FreeformWindowOrientation_landscape
+string FreeformWindowOrientation_portrait
+string FreeformWindowSize_maximize
+string FreeformWindowSize_phone
+string FreeformWindowSize_tablet
+string app_name
+string dialog_button1_zh_CN
+string dialog_button2_zh_CN
+string dialog_content_gobcak_zh_CN
+string dialog_content_lost_zh_CN
+string dialog_content_toofar_zh_CN
+string dialog_title_zh_CN
+string game_view_content_description
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

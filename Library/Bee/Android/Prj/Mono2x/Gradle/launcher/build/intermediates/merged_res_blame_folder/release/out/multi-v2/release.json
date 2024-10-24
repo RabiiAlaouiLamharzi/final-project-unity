@@ -1,0 +1,152 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.Final.launcher-merged_res-7:/values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values-v28/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.Final.launcher-merged_res-7:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "96,153,209,258,304,351"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "95,141,198,254,303,349",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "136,193,249,298,344,391"
+                    }
+                },
+                {
+                    "source": "/Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                },
+                {
+                    "source": "/Users/rabiialaoui/.gradle/caches/transforms-3/1015f5190ad16a6297e1d455213681b8/transformed/jetified-pvrSDK-release/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,113,170,256,340,436",
+                        "endColumns": "57,56,85,83,95,53",
+                        "endOffsets": "108,165,251,335,431,485"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "439,497,554,640,724,820",
+                        "endColumns": "57,56,85,83,95,53",
+                        "endOffsets": "492,549,635,719,815,869"
+                    }
+                },
+                {
+                    "source": "/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,94",
+                        "endColumns": "40,65",
+                        "endOffsets": "91,157"
+                    },
+                    "to": {
+                        "startLines": "9,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "396,874",
+                        "endColumns": "42,67",
+                        "endOffsets": "434,937"
+                    }
+                },
+                {
+                    "source": "/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "17,19,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "942,1042,1180",
+                        "endLines": "18,21,25",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "1037,1175,1402"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.Final.launcher-merged_res-7:/values-v30_values-v30.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,129,201,266,325",
+                        "endColumns": "73,71,64,58,60",
+                        "endOffsets": "124,196,261,320,381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.Final.launcher-merged_res-7:/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

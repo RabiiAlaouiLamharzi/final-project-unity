@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:2:70-113
+		INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+		INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:3:3-6:17
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:5-5:16
+	android:name
+		ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:15-68
+uses-sdk
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+		ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+		INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+		ADDED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml
+		INJECTED from /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml

@@ -1,0 +1,53 @@
+apply plugin: 'com.android.library'
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'pvrSDK-release', ext:'aar')
+    implementation(name: 'Pico_PaymentSDK_Android_V1.0.34', ext:'aar')
+    implementation(name: 'UnityPicoVR', ext:'aar')
+    implementation project('xrmanifest.androidlib')
+
+}
+
+android {
+    namespace "com.unity3d.player"
+    ndkPath "/Applications/Unity/Hub/Editor/2021.3.44f1/PlaybackEngines/AndroidPlayer/NDK"
+    compileSdkVersion 35
+    buildToolsVersion '34.0.0'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    defaultConfig {
+        minSdkVersion 26
+        targetSdkVersion 35
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
+        versionCode 1
+        versionName '0.1'
+        consumerProguardFiles 'proguard-unity.txt'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', '.bundle', '.unityexp'] + unityStreamingAssets.tokenize(', ')
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
+    }
+
+    packagingOptions {
+        doNotStrip '*/armeabi-v7a/*.so'
+        jniLibs {
+            useLegacyPackaging true
+        }
+    }
+}
+
+
+

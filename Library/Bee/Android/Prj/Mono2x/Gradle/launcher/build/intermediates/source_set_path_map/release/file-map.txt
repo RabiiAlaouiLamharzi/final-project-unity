@@ -1,0 +1,12 @@
+com.DefaultCompany.Final.launcher-jetified-pvrSDK-release-0 /Users/rabiialaoui/.gradle/caches/transforms-3/1015f5190ad16a6297e1d455213681b8/transformed/jetified-pvrSDK-release/res
+com.DefaultCompany.Final.launcher-jetified-Pico_PaymentSDK_Android_V1.0.34-1 /Users/rabiialaoui/.gradle/caches/transforms-3/7288681361d47d0523adb2d2215119b2/transformed/jetified-Pico_PaymentSDK_Android_V1.0.34/res
+com.DefaultCompany.Final.launcher-pngs-2 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/pngs/release
+com.DefaultCompany.Final.launcher-resValues-3 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/resValues/release
+com.DefaultCompany.Final.launcher-rs-4 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/rs/release
+com.DefaultCompany.Final.launcher-mergeReleaseResources-5 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.DefaultCompany.Final.launcher-mergeReleaseResources-6 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.DefaultCompany.Final.launcher-merged_res-7 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_res/release
+com.DefaultCompany.Final.launcher-main-8 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res
+com.DefaultCompany.Final.launcher-release-9 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/release/res
+com.DefaultCompany.Final.launcher-packaged_res-10 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release
+com.DefaultCompany.Final.launcher-packaged_res-11 /Users/rabiialaoui/Downloads/final-project-unity-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/packaged_res/release

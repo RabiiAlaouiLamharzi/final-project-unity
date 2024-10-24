@@ -1,0 +1,73 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "pvrSDK-release"
+  }
+  digests {
+    sha256: "|z\352\320X\227a\342\215\324\\y_\307\321\031\\\2343\000\250VH\025_O\004\240\021\245&\265"
+  }
+}
+library {
+  maven_library {
+    artifactId: "Pico_PaymentSDK_Android_V1.0.34"
+  }
+  digests {
+    sha256: "\311\345\001\017\235\343\316.l\215\363o\355\220\224=\027\\\330\021\037\'\270\2177\236}\257\377\034\a\207"
+  }
+}
+library {
+  maven_library {
+    artifactId: "UnityPicoVR"
+  }
+  digests {
+    sha256: "\031\024@>P2Gj\302R9\330\332F\237\333\344\320T\241\335\225\252\334h\256P\206\024\267\024>"
+  }
+}
+library {
+  digests {
+    sha256: "\242\025\372\245^\252\'C\316\210\257\231\341\233F\td\344\025\274\020\037\234\016\340=#\367\r\343\355\306"
+  }
+}
+library {
+  digests {
+    sha256: "\306\"\027c\275y\304\361\303\334\177u\v_)\240\2738\263g\270\023\024\304\367\030\226\343@\304\b%"
+  }
+}
+library {
+  digests {
+    sha256: "\016@Gs\317y\202\254\272\211Bz\223\254\000\327\232P\2133\336\3656\337\311.ge\036\337\275W"
+  }
+}
+library {
+  digests {
+    sha256: "~\226X\032*\345Q\324\362\245H\275\314m\222\356v)\272DT2WG\034\227H\2228\255\231)"
+  }
+}
+library {
+  digests {
+    sha256: "\226\212WHX\301+\r/,\211\203\205M\364\001%Dq\351.\227#%\a\2271{U\250\224\330"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+  dependency_index: 2
+  dependency_index: 3
+  dependency_index: 4
+  dependency_index: 5
+  dependency_index: 6
+  dependency_index: 7
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
