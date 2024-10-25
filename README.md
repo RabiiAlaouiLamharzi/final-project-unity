@@ -2,14 +2,18 @@
 
 ### Introduction :
 
-**Welcome to Our Science Fair Unity Project!**
-
-Our Science Fair project in Unity showcases three main exhibits: the Volcano, the Lamp, and the Magnet. Each exhibit is displayed on a table in a virtual room designed in Sweet Home 3D and exported to Unity. Visitors can navigate the environment, interact with each exhibit, reset them, and launch scripts associated with some exhibits. Below are descriptions of each exhibit and the interactive features of our environment.
+Our Science Fair project in Unity showcases 3 exhibits: the Volcano, the Lamp, and the Magnet. Each exhibit is displayed on a table in a virtual room designed in Sweet Home 3D and exported to Unity. A user visiting our environment can walk around it, interact with each exhibit, reset the exhibits, and launch scripts associated with some of the exhibits.
 
 ### Team Members:
 
 - Rabii Lamharzi Alaoui (rabiialaoui10@gmail.com)
 - Baptiste Samoyault (bsamoyault@gmail.com)
+
+### Demo
+
+(Watch the demo video with sound on)
+
+https://github.com/user-attachments/assets/3a91d17e-d414-4564-a1da-dd83f3a50190
 
 ### Exhibits:
 
